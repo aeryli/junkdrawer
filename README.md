@@ -1,6 +1,4 @@
-# junkdrawer
 
-<table class="nice-table no-stripes">
     <caption class="sr-only">Pixel 11 Pro Fold tech specs</caption>
     <tbody>
       <tr>
@@ -518,7 +516,7 @@
         </td>
       </tr>
     </tbody>
-  </table>,<table class="nice-table no-stripes">
+  </table>,
     <caption class="sr-only">Pixel 11 Pro XL tech specs</caption>
       <tbody>
         <tr>
@@ -1006,7 +1004,7 @@
           </td>
         </tr>
       </tbody>
-    </table>,<table class="nice-table no-stripes">
+    </table>,
     <caption class="sr-only">Pixel 11 Pro tech specs</caption>
       <tbody>
         <tr>
@@ -1494,7 +1492,7 @@
           </td>
         </tr>
       </tbody>
-    </table>,<table class="nice-table no-stripes">
+    </table>,
     <caption class="sr-only">Pixel 11 tech specs</caption>
       <tbody>
         <tr>
@@ -1964,7 +1962,7 @@
           </td>
         </tr>
       </tbody>
-    </table>,<table class="nice-table no-stripes">
+    </table>,
     <caption class="sr-only">Pixel 10a tech specs</caption>
       <tbody>
         <tr>
@@ -2427,7 +2425,7 @@
           </td>
         </tr>
       </tbody>
-    </table>,<table class="nice-table no-stripes">
+    </table>,
     <caption class="sr-only">Pixel 10 Pro Fold tech specs</caption>
     <tbody>
       <tr>
@@ -2946,7 +2944,7 @@
         </td>
       </tr>
     </tbody>
-  </table>,<table class="nice-table no-stripes">
+  </table>,
     <caption class="sr-only">Pixel 10 Pro XL tech specs</caption>
       <tbody>
         <tr>
@@ -3442,7 +3440,7 @@
           </td>
         </tr>
       </tbody>
-    </table>,<table class="nice-table no-stripes">
+    </table>,
     <caption class="sr-only">Pixel 10 Pro tech specs</caption>
       <tbody>
         <tr>
@@ -3938,7 +3936,7 @@
           </td>
         </tr>
       </tbody>
-    </table>,<table class="nice-table no-stripes">
+    </table>,
     <caption class="sr-only">Pixel 10 tech specs</caption>
       <tbody>
         <tr>
@@ -4423,7 +4421,7 @@
           </td>
         </tr>
       </tbody>
-    </table>,<table class="nice-table no-stripes">
+    </table>,
     <caption class="sr-only">Pixel 9a tech specs</caption>
       <tbody>
         <tr>
@@ -4861,7 +4859,7 @@
           </td>
         </tr>
       </tbody>
-    </table>,<table class="nice-table no-stripes">
+    </table>,
   <caption class="sr-only">Pixel 9 Pro Fold tech specs</caption>
     <tbody>
       <tr>
@@ -5425,7 +5423,7 @@
         <strong>AT, AU, BE, CH, CZ, DE, DK, EE, ES, FI, FR, GB, HU, IE, IT, LT, LV, NL, NO, PL, PT, RO, SE, SI, SK: </strong>2 years</td>
       </tr>
     </tbody>
-  </table>,<table class="nice-table no-stripes">
+  </table>,
     <caption class="sr-only">Pixel 9 Pro XL tech specs</caption>
       <tbody>
         <tr>
@@ -5967,7 +5965,7 @@
           </td>
         </tr>
       </tbody>
-    </table>,<table class="nice-table no-stripes">
+    </table>,
     <caption class="sr-only">Pixel 9 Pro tech specs</caption>
     <tbody>
         <tr>
@@ -6510,7 +6508,7 @@
           <strong>AT, AU, BE, CH, CZ, DE, DK, EE, ES, FI, FR, GB, HU, IE, IT, LT, LV, NL, NO, PL, PT, RO, SE, SI, SK: </strong>2 years</td>
         </tr>
       </tbody>
-    </table>,<table class="nice-table no-stripes">
+    </table>,
     <caption class="sr-only">Pixel 9 tech specs</caption>
     <tbody>
         <tr>
@@ -7036,7 +7034,7 @@
           <strong>AT, AU, BE, CH, CZ, DE, DK, EE, ES, FI, FR,GB, HU, IE, IT, LT, LV, NL, NO, PL, PT, RO, SE, SI, SK: </strong>2 years</td>
         </tr>
       </tbody>
-    </table>,<table class="nice-table no-stripes">
+    </table>,
     <caption class="sr-only">Pixel 8a tech specs</caption>
     <tbody>        
         <tr>
@@ -7453,7 +7451,7 @@
           </td>
         </tr>
       </tbody>
-    </table>,<table class="nice-table no-stripes">
+    </table>,
     <caption class="sr-only">Pixel 8 Pro tech specs</caption>
     <tbody>
         <tr>
@@ -7896,7 +7894,7 @@
           </td>
         </tr>
       </tbody>
-    </table>,<table class="nice-table no-stripes">
+    </table>,
     <caption class="sr-only">Pixel 8 tech specs</caption>
     <tbody>
         <tr>
@@ -8342,7 +8340,7 @@
           </td>
         </tr>
       </tbody>
-    </table>,<table class="nice-table no-stripes">
+    </table>,
     <caption class="sr-only">Pixel Fold tech specs</caption>
     <tbody>
       <tr>
@@ -8763,7 +8761,7 @@
         </td>
       </tr>
     </tbody>
-  </table>,<table class="nice-table no-stripes">
+  </table>,
     <caption class="sr-only">Pixel 7a tech specs</caption>
     <tbody>
         <tr>
@@ -9134,7 +9132,7 @@
           </td>
         </tr>
       </tbody>
-    </table>,<table class="nice-table no-stripes">
+    </table>,
     <caption class="sr-only">Pixel 7 Pro tech specs</caption>
     <tbody>
           <tr>
@@ -9494,7 +9492,7 @@
             </td>
           </tr>
         </tbody>
-      </table>,<table class="nice-table no-stripes">
+      </table>,
     <caption class="sr-only">Pixel 7 tech specs</caption>
     <tbody>      
           <tr>
@@ -9846,7 +9844,7 @@
             </td>
           </tr>
         </tbody>
-      </table>,<table class="nice-table no-stripes">
+      </table>,
       <caption class="sr-only">Pixel 6a tech specs</caption>
       <tbody>
         <tr>
@@ -10205,7 +10203,7 @@
           </td>
         </tr>
       </tbody>
-    </table>,<table class="nice-table no-stripes">
+    </table>,
     <caption class="sr-only">Pixel 6 Pro tech specs</caption>
     <tbody>
       <tr>
@@ -10561,7 +10559,7 @@
         </td>
       </tr>
     </tbody>
-  </table>,<table class="nice-table no-stripes">
+  </table>,
     <caption class="sr-only">Pixel 6 tech specs</caption>
     <tbody>
       <tr>
